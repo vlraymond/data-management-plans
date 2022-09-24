@@ -23,9 +23,12 @@ Ranking legend:
 
 References:
 1 - Wilkinson, M. D. et al. The FAIR guiding principles for scientific data management and stewardship. Sci. Data. 3, 160018 (2016).
+
 2 - Carroll, SR, Rodriguez-Lonebear, D and Martinez, A. 2019. Indigenous Data Governance: Strategies from United States Native Nations. Data Science Journal, 18(31): 1–15. DOI: https://doi.org/10.5334/dsj-2019-031 
+
 3 - First Nation’s Information Governance Centre. 2018. The First Nations Principles of OCAP®. Available at https://fnigc.ca/ocap 
 
-
+Licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Cite as:
+Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. https://github.com/vlraymond/data-management-plans/blob/main/fair-care-ocap.md . 2022.
