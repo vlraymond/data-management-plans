@@ -31,4 +31,4 @@ References:
 Licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Cite as:
-Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. https://github.com/vlraymond/data-management-plans/blob/main/fair-care-ocap.md . 2022.
+Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. 10.5281/zenodo.7109286 . 2022.
