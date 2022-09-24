@@ -2,7 +2,8 @@
 
 Use the following text for creating data management plans that desribe how the project will interact with, acknowledge, and prioritize the conflicting information guidelines of FAIR, CARE, and OCAP.
 
-This work is license as [CC-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), requiring proper attribution.
+[Data Management Plans: How FAIR, CARE, and OCAP are applied in this research]()
 
-Cite this work as:
-Raymond, Vanessa. Convene North. 2021. Accessed at: 
+This work is licensed as CC-BY-4.0 , requiring attribution.
+
+Cite as: Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. https://zenodo.org/record/7109286. 2022.
