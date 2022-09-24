@@ -28,7 +28,7 @@ References:
 
 3 - First Nation’s Information Governance Centre. 2018. The First Nations Principles of OCAP®. Available at https://fnigc.ca/ocap 
 
-Licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Cite as:
 Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. 10.5281/zenodo.7109286 . 2022.
