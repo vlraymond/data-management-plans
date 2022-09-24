@@ -6,4 +6,4 @@ Use the following text for creating data management plans that desribe how the p
 
 This work is licensed as CC-BY-4.0 , requiring attribution.
 
-Cite as: Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. https://zenodo.org/record/7109286. 2022.
+Cite as: Raymond, Vanessa. Data Management Plans: How FAIR, CARE, and OCAP are applied in this research. Convene North. https://doi.org/10.5281/zenodo.7109285. 2022.
